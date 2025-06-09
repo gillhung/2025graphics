@@ -1,0 +1,23 @@
+# Blender 4.4.3 MTL File: 'CAT_ALONE3.blend'
+# www.blender.org
+
+newmtl body
+Ns 100.565483
+Ka 1.000000 1.000000 1.000000
+Ks 0.231517 0.231517 0.231517
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd 0_PROJECTS/Toony Cat - first proj/Textures/CAT/AO.png
+map_Bump -bm 0.400000 0_PROJECTS/Toony Cat - first proj/Textures/CAT/normal.tga
+
+newmtl eyes1
+Ns 997.407593
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.171206 0.171206 0.171206
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
