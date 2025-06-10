@@ -9,8 +9,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd 0_PROJECTS/Toony Cat - first proj/Textures/CAT/AO.png
-map_Bump -bm 0.400000 0_PROJECTS/Toony Cat - first proj/Textures/CAT/normal.tga
+map_Kd AO.png
+map_Bump CAT_normal.tag
 
 newmtl eyes1
 Ns 997.407593
@@ -21,3 +21,5 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
+map_Kd cateyes.png
+
